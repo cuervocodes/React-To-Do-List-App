@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+[LIVE DEMO](https://reacttodolist-jax.herokuapp.com/)
+
+<img width="1437" alt="Screen Shot 2022-09-06 at 11 24 49 AM" src="https://user-images.githubusercontent.com/104921728/188674418-69b6f528-8848-4220-9313-70b1c5170513.png">
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
